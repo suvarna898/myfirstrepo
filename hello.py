@@ -1,5 +1,5 @@
 print("suvarna")
 print("heyyy")
 print("hii")
-print("hloo")
-print("hio")
+print("hello")
+print("hsiii")
